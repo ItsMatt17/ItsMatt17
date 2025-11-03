@@ -1,6 +1,6 @@
  #                                                                    **👋 Hi, I’m Matthew**
-- 👀 I’m interested in player guitar, listening to music, video games. 
-- 🌱 I’m currently learning the basics of python and more. 
+- 👀 I'm a current university student @ Rutgers University
+- 🌱 I have interests in computer science, mathematics, and more! 
 
 <!---
 ItsMatt17/ItsMatt17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
