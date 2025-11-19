@@ -1,7 +1,6 @@
 # Hi 👋, I'm Matthew Payne
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ItsMatt17&label=Profile views&color=0e75b6&style=flat" alt="ItsMatt17" /> </p>
-
 - 🌱 I'm currently learning **Backend development with Java and other things that I find interesting!**
 
 - 🤝 I'm looking for help with **Improving code quality and system design**
