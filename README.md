@@ -55,6 +55,4 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
-
 
